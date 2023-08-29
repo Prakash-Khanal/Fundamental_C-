@@ -1,2 +1,2 @@
 # Fundamental C++
-This is first tutorial for C++!
+This is the first tutorial for C++!
